@@ -1,0 +1,6 @@
+*.swp
+Session.vim
+Gemfile.lock
+coverage
+.bundle
+pkg
